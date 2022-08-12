@@ -1,0 +1,16 @@
+{
+    "name": "nemizar/hello-world",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "Nemizar\\HelloWorld\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Alexandr Kuzmin",
+            "email": "nemizar@gmail.com"
+        }
+    ],
+    "require": {}
+}
